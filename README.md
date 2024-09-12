@@ -26,8 +26,7 @@ This is the landing page for **FinancePal Solo**, a personal finance tracking ap
 - **GitHub Pages**: Hosting of the landing page.
 
 ## How to Access
-- The landing page is hosted on GitHub Pages. You can visit it here: [Landing Page URL](https://username.github.io/repository-name).
-- The deployed FinancePal Solo application is accessible here: [Deployed App URL](https://deployedapp.com).
+- The landing page is hosted on GitHub Pages. You can visit it here: [Landing Page URL](https://adeosunabdulsamad.github.io/Financepay-Solo/).
 
 
 ## Project Inspiration
